@@ -1,6 +1,6 @@
 List of languages:
 
-- JavaScript
-- Python
-- C/C++
-- Java
+- JavaScript.
+- Python.
+- C/C++.
+- Java.
